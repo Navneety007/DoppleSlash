@@ -1,0 +1,15 @@
+guild ->
+guildid
+welcome
+suggestion
+template
+
+user ->
+userid
+credits
+inventory
+bg
+rep
+achievements
+streak
+crypto = {crypto:[invested,date,ratio]}
